@@ -1,5 +1,4 @@
-//create a promise
-//then talk about promises
+
 let movieData, userInput;
 const $title = $("#title");
 const $year = $("#year");
